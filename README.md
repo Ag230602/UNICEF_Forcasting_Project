@@ -49,9 +49,6 @@ Data link :https://drive.google.com/drive/folders/1Qnki8L52euDNkveHjIheGZH-cz7gt
 ### Recovery Rays & Impact Heatmap Demonstration
 [![Recovery Rays & Impact Heatmap](https://img.youtube.com/vi/TCNdMnLFamw/hqdefault.jpg)](https://youtu.be/TCNdMnLFamw)
 
-> These videos are offline, pre-rendered demonstrations designed for interpretability
-> and governance-safe communication, not real-time operational forecasts.
-
 
 > These videos are **offline, pre‑rendered demonstrations** designed for interpretability and governance‑safe communication — not real‑time operational forecasts.
 
@@ -206,5 +203,6 @@ This ensures **auditability and reproducibility**.
 ---
 
 **This repository is intended as a living research and demonstration platform for uncertainty‑aware, child‑centered humanitarian decision support.**
+
 
 
