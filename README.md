@@ -36,19 +36,22 @@ Data link :https://drive.google.com/drive/folders/1Qnki8L52euDNkveHjIheGZH-cz7gt
 
 ---
 
-##  Demonstration Videos (YouTube)
+## Demonstration Videos (YouTube)
+
+> The standard approach is a clickable preview image that opens the video externally.
 
 ### Hurricane Irma (2017) — 3D Path Visualization
-
-[https://youtu.be/ZvJ8jOmbHDE](https://youtu.be/ZvJ8jOmbHDE)
+[![Hurricane Irma 3D Path](https://img.youtube.com/vi/ZvJ8jOmbHDE/hqdefault.jpg)](https://youtu.be/ZvJ8jOmbHDE)
 
 ### Uncertainty & Ensemble Spread Visualization
-
-[https://youtu.be/nTIp0jjtJEk](https://youtu.be/nTIp0jjtJEk)
+[![Uncertainty & Ensemble Spread](https://img.youtube.com/vi/nTIp0jjtJEk/hqdefault.jpg)](https://youtu.be/nTIp0jjtJEk)
 
 ### Recovery Rays & Impact Heatmap Demonstration
+[![Recovery Rays & Impact Heatmap](https://img.youtube.com/vi/TCNdMnLFamw/hqdefault.jpg)](https://youtu.be/TCNdMnLFamw)
 
-[https://youtu.be/TCNdMnLFamw](https://youtu.be/TCNdMnLFamw)
+> These videos are offline, pre-rendered demonstrations designed for interpretability
+> and governance-safe communication, not real-time operational forecasts.
+
 
 > These videos are **offline, pre‑rendered demonstrations** designed for interpretability and governance‑safe communication — not real‑time operational forecasts.
 
@@ -203,4 +206,5 @@ This ensures **auditability and reproducibility**.
 ---
 
 **This repository is intended as a living research and demonstration platform for uncertainty‑aware, child‑centered humanitarian decision support.**
+
 
