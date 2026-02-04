@@ -7,6 +7,7 @@ This repository presents an end‑to‑end, governance‑safe system that couple
 The project is designed not as a black‑box prediction tool, but as a **transparent decision interface** that communicates *what may happen, how uncertain it is, and where limited resources should be prioritized*.
 
 ---
+Data link :https://drive.google.com/drive/folders/1Qnki8L52euDNkveHjIheGZH-cz7gt1CB?usp=sharing
 
 ##  Project Objectives
 
@@ -202,3 +203,4 @@ This ensures **auditability and reproducibility**.
 ---
 
 **This repository is intended as a living research and demonstration platform for uncertainty‑aware, child‑centered humanitarian decision support.**
+
