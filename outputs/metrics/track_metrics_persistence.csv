@@ -1,0 +1,2 @@
+model,track_km_6h,track_km_12h,track_km_24h,track_km_48h,landfall_time_err_hours,cone_cov50_6h,cone_cov90_6h,along_err_km_6h,cross_err_km_6h,cone_cov50_12h,cone_cov90_12h,along_err_km_12h,cross_err_km_12h,cone_cov50_24h,cone_cov90_24h,along_err_km_24h,cross_err_km_24h,cone_cov50_48h,cone_cov90_48h,along_err_km_48h,cross_err_km_48h
+Persistence,131.06448541683358,130.54417488792416,168.05480882001538,410.3590672222112,11.0,,,,,,,,,,,,,,,,
