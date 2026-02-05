@@ -1,4 +1,4 @@
-# 🌍 AI‑Driven, Uncertainty‑Aware Hurricane Forecasting & 3D Decision Support
+# 🌍 STORM-CARE (Storm-focused Child-centered Actionable Risk Engine)
 
 **A UNICEF × UMKC Collaborative Research and Demonstration Repository**
 
@@ -203,6 +203,7 @@ This ensures **auditability and reproducibility**.
 ---
 
 **This repository is intended as a living research and demonstration platform for uncertainty‑aware, child‑centered humanitarian decision support.**
+
 
 
 
