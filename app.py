@@ -296,7 +296,7 @@ h1, h2, h3 { letter-spacing: -0.02em; }
     unsafe_allow_html=True,
 )
 
-st.title("UNICEF-style Decision Map ")
+st.title("STORM-CARE (Storm-focused Child-centered Actionable Risk Engine) ")
 st.caption("Choropleth Support Resource Score + toggleable heatmaps + pediatric-first filter (reproducible public data + your facilities).")
 
 
