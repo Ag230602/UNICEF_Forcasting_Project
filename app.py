@@ -281,7 +281,7 @@ def make_legend_html():
 # =========================
 # STREAMLIT PAGE
 # =========================
-st.set_page_config(page_title="UNICEF-style Decision Map", layout="wide")
+st.set_page_config(page_title="STORM-CARE (Storm-focused Child-centered Actionable Risk Engine)", layout="wide")
 
 st.markdown(
     """
