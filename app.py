@@ -28,6 +28,8 @@ import requests
 import shapefile  # pyshp
 import streamlit as st
 from shapely.geometry import Point, shape
+import google.generativeai as genai
+
 
 
 # =========================
