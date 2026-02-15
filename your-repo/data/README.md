@@ -7,6 +7,7 @@ It integrates spatio-temporal modeling, risk scoring, and interactive visualizat
 
 ##  Project Overview
 
+
 The system is designed to help decision-makers answer questions such as:
 
 - **Where is risk highest under uncertainty?**
