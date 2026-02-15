@@ -2,6 +2,9 @@
 ## Uncertainty-Aware Hurricane Forecasting & Child-Centered Decision Intelligence  
 ### Spatio-Temporal Graph Neural Networks for Humanitarian Planning
 
+Dr. Yugyung Lee (Professor of Computer Science), Adrija Ghosh (CS Graduate Student)
+School of Science and Engineering, University of Missouri–Kansas City
+
 <p align="center">
   <b>Research Prototype | Probabilistic Forecasting | Human-Centered AI | Governance-Aware Visualization</b>
 </p>
