@@ -3,7 +3,7 @@
 ## Setup
 - Task: Hurricane track forecasting (Irma 2017 + Ian 2022)
 - Split: 80% train / 20% test (seeded)
-- Outputs: probabilistic mean track + uncertainty (P50/P90 cone)
+- Outputs: probabilistic mean track + uncertainty (P50/P90 cone) 
 
 ## Models evaluated
 - Persistence (constant-velocity)
